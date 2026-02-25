@@ -68,3 +68,9 @@ button:hover {
 button:hover {
     transform: scale(1.05);
 }
+footer {
+    margin-top: 60px;
+    padding: 20px;
+    background: #ff6b6b;
+    color: white;
+}
