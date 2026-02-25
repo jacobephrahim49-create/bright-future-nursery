@@ -38,3 +38,21 @@ button {
 button:hover {
     background: #38b2ac;
 }
+.features {
+    margin-top: 60px;
+    padding: 40px;
+}
+
+.features h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.feature-box {
+    background: white;
+    padding: 20px;
+    margin: 15px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
