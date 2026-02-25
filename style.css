@@ -105,3 +105,29 @@ footer {
     }
 
 }
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.features {
+    margin-top: 40px;
+}
+
+.feature-box {
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 8px;
+}
